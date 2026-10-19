@@ -2,7 +2,7 @@
 
 - 🚀 Em transição de carreira para **Engenharia de Dados**
 - 📚 Estudando atualmente: **SQL (PostgreSQL)**, **Python** e **Git**
-- 💡 Base anterior: Power BI avançado, JavaScript e análise de dados
+- 💡 Base anterior: Power BI avançado, dados e visualização — agora aprofundando em SQL, Python e pipelines
 - 🌎 Inglês intermediário, estudando diariamente (meta: trabalhar com dados internacionalmente)
 - 📧 [nasserpreutiago99@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/tiago-nasser-preu)
